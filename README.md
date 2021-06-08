@@ -1,5 +1,4 @@
 <br>
-
 <p align="center">
       <img src="assets/logo.png">
       <h2 align="center"> Software de Análise do Eleitorado</h2>
